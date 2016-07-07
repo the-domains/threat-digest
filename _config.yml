@@ -1,0 +1,28 @@
+name: Threat Digest
+favicon: null
+layout_spectrum: 0.6642320300452411
+typography_spectrum: 0.1723474592436105
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.342475876910612
+  lightness: 0.7501775061246008
+  saturation: 0.6204862727317959
+  rhythmicContrast: 0.5220519779250026
+purpose: []
